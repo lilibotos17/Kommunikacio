@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:saddlebrown;
+    text-decoration-line: underline;
+   text-decoration-style: wavy;
+
+
+}
+
+
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:saddlebrown;
+  color:wheat;
+}
+
+
+
+body{
+    background-color:wheat;
+}
+
+
+
+p{
+
+    text-align: justify;
+}
